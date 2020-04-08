@@ -52,7 +52,7 @@ def question_1(answer):
 ```python
 # YOUR SOLUTION HERE
 # Sample incorrect answer
-answer_question_1 = lambda: question_1("A")
+answer_question_1 = lambda: question_1("C")
 ```
 
 **Question 2.**
